@@ -1,0 +1,9 @@
+quart
+quart-cors
+aiohttp
+azure-monitor-opentelemetry
+opentelemetry-instrumentation-asgi
+opentelemetry-instrumentation-requests
+opentelemetry-instrumentation-aiohttp-client
+msal
+msal-extensions

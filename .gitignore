@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# azure credentials and azd
+.azure
+.az
+
+# Virtual environment
+venv
+.venv
+env
+.env
+
+# direnv file
+.envrc
+
+# python cache
+__pycache__/
